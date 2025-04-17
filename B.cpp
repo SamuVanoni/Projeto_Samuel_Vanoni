@@ -15,6 +15,7 @@ public:
 
     void MB1() { cout << "Método MB1 chamado" << endl; }
     void MB2() { cout << "Método MB2 chamado" << endl; }
+    void MB3() { cout << "Método MB3 chamado" << endl; }
 };
 
 // Exportando a classe para uso externo
