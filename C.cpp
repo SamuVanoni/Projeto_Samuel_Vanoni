@@ -16,6 +16,7 @@ public:
 
     void MC1() { cout << "Método MC1 chamado" << endl; }
     void MC2() { cout << "Método MC2 chamado" << endl; }
+    void MC3() { cout << "Método MC3 chamado" << endl; }
 };
 
 // Exportando uma instância, se necessário
