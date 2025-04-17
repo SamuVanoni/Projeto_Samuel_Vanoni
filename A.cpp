@@ -15,6 +15,7 @@ public:
 
     void MA1() { cout << "Método MA1 chamado" << endl; }
     void MA2() { cout << "Método MA2 chamado" << endl; }
+    void MA3() { cout << "Alteração na classe A a partir do clone" << endl; }
 };
 
 // Exportando a classe para uso externo
